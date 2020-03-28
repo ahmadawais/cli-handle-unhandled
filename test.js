@@ -1,5 +1,5 @@
-const cliHandleUnhandled = require('./index.js');
+const unhandledError = require('./index.js');
 
 Promise.reject(new Error('THIS_IS_UNHANDLED'));
 
-cliHandleUnhandled();
+unhandledError();

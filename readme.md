@@ -22,7 +22,7 @@ npm install cli-handle-unhandled
 ## Usage
 
 ```js
-const cliHandleUnhandled = require('cli-handle-unhandled');
+const unhandledError = require('cli-handle-unhandled');
 ```
 
 <br>
