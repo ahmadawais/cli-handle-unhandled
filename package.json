@@ -22,6 +22,7 @@
 		"test": "node test.js"
 	},
 	"dependencies": {
-		"cli-handle-error": "^4.1.0"
+		"cli-handle-error": "^4.1.0",
+		"langbase": "*"
 	}
 }
