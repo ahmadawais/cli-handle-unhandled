@@ -19,10 +19,11 @@
 		"ahmadawais"
 	],
 	"scripts": {
-		"test": "node test.js"
+		"test": "node test.js && node review.js"
 	},
 	"dependencies": {
 		"cli-handle-error": "^4.1.0",
+		"command-code": "*",
 		"langbase": "*"
 	}
 }
