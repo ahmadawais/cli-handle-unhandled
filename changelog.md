@@ -1,3 +1,11 @@
+# Changelog
+
+## [1.1.3](https://github.com/ahmadawais/cli-handle-unhandled/compare/1.1.2...1.1.3) (2026-05-14)
+
+### Features
+
+* wip: command auto review workflow ([cfc93c1](https://github.com/ahmadawais/cli-handle-unhandled/commit/cfc93c11f2f00d0d065b1f5c1caca8fb9c8e5e2f))
+
 # CHANGELOG
 
 [![Twitter @MrAhmadAwais](https://img.shields.io/badge/Twitter-@MrAhmadAwais-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://twitter.com/MrAhmadAwais/) [![LinkedIn @MrAhmadAwais](https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://www.linkedin.com/in/MrAhmadAwais/) [![YouTube AhmadAwais](https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://youtube.com/AhmadAwais?sub_confirmation=1) [![Blog: AhmadAwais.com](https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://AhmadAwais.com/) [![GitHub @AhmadAwais](https://img.shields.io/badge/-GitHub-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://github.com/ahmadawais)
