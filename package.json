@@ -23,7 +23,6 @@
 	},
 	"dependencies": {
 		"cli-handle-error": "^4.1.0",
-		"command-code": "*",
-		"langbase": "*"
+		"command-code": "*"
 	}
 }
